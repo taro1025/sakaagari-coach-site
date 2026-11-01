@@ -1,0 +1,5 @@
+body{margin:0;background:#F7F3EA;color:#1E2540;font-family:-apple-system,"Hiragino Sans","Hiragino Kaku Gothic ProN",sans-serif;line-height:1.8}
+main{max-width:720px;margin:0 auto;padding:40px 22px 64px}h1{color:#24409A;font-size:1.7em;line-height:1.4}h2{color:#24409A;font-size:1.15em;margin-top:2em}
+a{color:#24409A}.bar{height:8px;background:#F2C230;border-radius:4px;width:72px;margin:8px 0 24px}footer{margin-top:48px;font-size:.85em;color:#5C6178}
+nav a{margin-right:14px}img.icon{width:96px;height:96px;border-radius:22px}
+@media (prefers-color-scheme:dark){body{background:#121A33;color:#F1F3F9}h1,h2,a{color:#9FB3F2}footer{color:#A9B1C9}}
